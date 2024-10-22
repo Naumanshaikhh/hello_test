@@ -1,1 +1,1 @@
-prinPEPEIRENJDEWJNDWSNJDS   MSD MNM NM MN  NN DN S   BBNNNN
+print('Hello, world!')
